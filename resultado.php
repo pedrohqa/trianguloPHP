@@ -20,7 +20,7 @@
                             echo "<img src='img/equilatero.png'>";
                         }
                         elseif(($l2 == $l3) || ($l1 == $l3) || ($l2 == $l1)){
-                            echo "<img src='img/isosceles.png'>";
+                            echo "<img src='img/isoscele.png'>";
                         }
                         else{
                             echo "<img src='img/escaleno.png'>";
